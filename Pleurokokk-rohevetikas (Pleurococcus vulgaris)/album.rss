@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Pleurokokk-rohevetikas (Pleurococcus vulgaris)</title>
+   	<link>..</link>
+        <generator>jAlbum 13.6</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://et.lichenarium.info/Pleurokokk-rohevetikas (Pleurococcus vulgaris)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0000175</title>
+            <link>http://et.lichenarium.info/Pleurokokk-rohevetikas (Pleurococcus vulgaris)/slides/fungi-0000175.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:49 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Pleurokokk-rohevetikas (Pleurococcus vulgaris)/thumbs/fungi-0000175.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Pleurokokk-rohevetikas (Pleurococcus vulgaris)/slides/fungi-0000175.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/fungi-0000175.jpg</guid>
+        </item>
+        <item>
+            <title>fungi-0000964</title>
+            <link>http://et.lichenarium.info/Pleurokokk-rohevetikas (Pleurococcus vulgaris)/slides/fungi-0000964.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:49 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Pleurokokk-rohevetikas (Pleurococcus vulgaris)/thumbs/fungi-0000964.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Pleurokokk-rohevetikas (Pleurococcus vulgaris)/slides/fungi-0000964.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/fungi-0000964.jpg</guid>
+        </item>
+        <item>
+            <title>fungi-0001815</title>
+            <link>http://et.lichenarium.info/Pleurokokk-rohevetikas (Pleurococcus vulgaris)/slides/fungi-0001815.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:49 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Pleurokokk-rohevetikas (Pleurococcus vulgaris)/thumbs/fungi-0001815.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Pleurokokk-rohevetikas (Pleurococcus vulgaris)/slides/fungi-0001815.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/fungi-0001815.jpg</guid>
+        </item>
+    </channel>
+</rss>

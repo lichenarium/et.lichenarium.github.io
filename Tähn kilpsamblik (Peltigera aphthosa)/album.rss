@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Tähn kilpsamblik (Peltigera aphthosa)</title>
+   	<link>..</link>
+        <generator>jAlbum 13.6</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://et.lichenarium.info/Tähn kilpsamblik (Peltigera aphthosa)/</jalbum:absolutePath>
+        <item>
+            <title>DSC09006</title>
+            <link>http://et.lichenarium.info/Tähn kilpsamblik (Peltigera aphthosa)/slides/DSC09006.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:50 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Tähn kilpsamblik (Peltigera aphthosa)/thumbs/DSC09006.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Tähn kilpsamblik (Peltigera aphthosa)/slides/DSC09006.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 01 Aug 2013 11:24:12 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09006.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09007</title>
+            <link>http://et.lichenarium.info/Tähn kilpsamblik (Peltigera aphthosa)/slides/DSC09007.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:50 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Tähn kilpsamblik (Peltigera aphthosa)/thumbs/DSC09007.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Tähn kilpsamblik (Peltigera aphthosa)/slides/DSC09007.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 01 Aug 2013 11:24:16 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09007.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09008</title>
+            <link>http://et.lichenarium.info/Tähn kilpsamblik (Peltigera aphthosa)/slides/DSC09008.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:50 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Tähn kilpsamblik (Peltigera aphthosa)/thumbs/DSC09008.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Tähn kilpsamblik (Peltigera aphthosa)/slides/DSC09008.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 01 Aug 2013 11:24:24 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09008.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09009</title>
+            <link>http://et.lichenarium.info/Tähn kilpsamblik (Peltigera aphthosa)/slides/DSC09009.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:50 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Tähn kilpsamblik (Peltigera aphthosa)/thumbs/DSC09009.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Tähn kilpsamblik (Peltigera aphthosa)/slides/DSC09009.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 01 Aug 2013 11:24:29 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09009.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09010</title>
+            <link>http://et.lichenarium.info/Tähn kilpsamblik (Peltigera aphthosa)/slides/DSC09010.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:50 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Tähn kilpsamblik (Peltigera aphthosa)/thumbs/DSC09010.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Tähn kilpsamblik (Peltigera aphthosa)/slides/DSC09010.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 01 Aug 2013 11:24:45 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09010.jpg</guid>
+        </item>
+    </channel>
+</rss>

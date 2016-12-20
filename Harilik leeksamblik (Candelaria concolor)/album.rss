@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Harilik leeksamblik (Candelaria concolor)</title>
+   	<link>..</link>
+        <generator>jAlbum 13.6</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://et.lichenarium.info/Harilik leeksamblik (Candelaria concolor)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0002206</title>
+            <link>http://et.lichenarium.info/Harilik leeksamblik (Candelaria concolor)/slides/fungi-0002206.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:49 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Harilik leeksamblik (Candelaria concolor)/thumbs/fungi-0002206.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Harilik leeksamblik (Candelaria concolor)/slides/fungi-0002206.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/fungi-0002206.jpg</guid>
+        </item>
+        <item>
+            <title>fungi-0002216</title>
+            <link>http://et.lichenarium.info/Harilik leeksamblik (Candelaria concolor)/slides/fungi-0002216.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:49 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Harilik leeksamblik (Candelaria concolor)/thumbs/fungi-0002216.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Harilik leeksamblik (Candelaria concolor)/slides/fungi-0002216.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/fungi-0002216.jpg</guid>
+        </item>
+        <item>
+            <title>fungi-0003127</title>
+            <link>http://et.lichenarium.info/Harilik leeksamblik (Candelaria concolor)/slides/fungi-0003127.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:49 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Harilik leeksamblik (Candelaria concolor)/thumbs/fungi-0003127.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Harilik leeksamblik (Candelaria concolor)/slides/fungi-0003127.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 02 May 2009 21:44:45 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0003127.jpg</guid>
+        </item>
+    </channel>
+</rss>

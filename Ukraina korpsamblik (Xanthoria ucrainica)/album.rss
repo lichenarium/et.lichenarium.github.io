@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ukraina korpsamblik (Xanthoria ucrainica)</title>
+   	<link>..</link>
+        <generator>jAlbum 13.6</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://et.lichenarium.info/Ukraina korpsamblik (Xanthoria ucrainica)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0002054</title>
+            <link>http://et.lichenarium.info/Ukraina korpsamblik (Xanthoria ucrainica)/slides/fungi-0002054.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:50 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Ukraina korpsamblik (Xanthoria ucrainica)/thumbs/fungi-0002054.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Ukraina korpsamblik (Xanthoria ucrainica)/slides/fungi-0002054.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/fungi-0002054.jpg</guid>
+        </item>
+        <item>
+            <title>fungi-0002058</title>
+            <link>http://et.lichenarium.info/Ukraina korpsamblik (Xanthoria ucrainica)/slides/fungi-0002058.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:50 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Ukraina korpsamblik (Xanthoria ucrainica)/thumbs/fungi-0002058.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Ukraina korpsamblik (Xanthoria ucrainica)/slides/fungi-0002058.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/fungi-0002058.jpg</guid>
+        </item>
+        <item>
+            <title>fungi-0002059</title>
+            <link>http://et.lichenarium.info/Ukraina korpsamblik (Xanthoria ucrainica)/slides/fungi-0002059.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:50 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Ukraina korpsamblik (Xanthoria ucrainica)/thumbs/fungi-0002059.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Ukraina korpsamblik (Xanthoria ucrainica)/slides/fungi-0002059.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/fungi-0002059.jpg</guid>
+        </item>
+        <item>
+            <title>fungi-0002060</title>
+            <link>http://et.lichenarium.info/Ukraina korpsamblik (Xanthoria ucrainica)/slides/fungi-0002060.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:50 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Ukraina korpsamblik (Xanthoria ucrainica)/thumbs/fungi-0002060.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Ukraina korpsamblik (Xanthoria ucrainica)/slides/fungi-0002060.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/fungi-0002060.jpg</guid>
+        </item>
+        <item>
+            <title>fungi-0002375</title>
+            <link>http://et.lichenarium.info/Ukraina korpsamblik (Xanthoria ucrainica)/slides/fungi-0002375.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:50 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Ukraina korpsamblik (Xanthoria ucrainica)/thumbs/fungi-0002375.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Ukraina korpsamblik (Xanthoria ucrainica)/slides/fungi-0002375.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 09 Nov 2008 20:19:42 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0002375.jpg</guid>
+        </item>
+    </channel>
+</rss>

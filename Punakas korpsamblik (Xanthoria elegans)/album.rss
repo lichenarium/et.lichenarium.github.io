@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Punakas korpsamblik (Xanthoria elegans)</title>
+   	<link>..</link>
+        <generator>jAlbum 13.6</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://et.lichenarium.info/Punakas korpsamblik (Xanthoria elegans)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0003046</title>
+            <link>http://et.lichenarium.info/Punakas korpsamblik (Xanthoria elegans)/slides/fungi-0003046.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:50 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Punakas korpsamblik (Xanthoria elegans)/thumbs/fungi-0003046.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Punakas korpsamblik (Xanthoria elegans)/slides/fungi-0003046.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 27 Mar 2009 21:48:26 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0003046.jpg</guid>
+        </item>
+        <item>
+            <title>fungi-0003047</title>
+            <link>http://et.lichenarium.info/Punakas korpsamblik (Xanthoria elegans)/slides/fungi-0003047.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:50 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Punakas korpsamblik (Xanthoria elegans)/thumbs/fungi-0003047.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Punakas korpsamblik (Xanthoria elegans)/slides/fungi-0003047.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 27 Mar 2009 21:48:34 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0003047.jpg</guid>
+        </item>
+        <item>
+            <title>fungi-0003048</title>
+            <link>http://et.lichenarium.info/Punakas korpsamblik (Xanthoria elegans)/slides/fungi-0003048.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:50 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Punakas korpsamblik (Xanthoria elegans)/thumbs/fungi-0003048.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Punakas korpsamblik (Xanthoria elegans)/slides/fungi-0003048.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 27 Mar 2009 21:48:53 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0003048.jpg</guid>
+        </item>
+    </channel>
+</rss>

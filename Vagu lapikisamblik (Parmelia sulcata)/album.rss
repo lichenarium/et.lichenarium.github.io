@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Vagu lapikisamblik (Parmelia sulcata)</title>
+   	<link>..</link>
+        <generator>jAlbum 13.6</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://et.lichenarium.info/Vagu lapikisamblik (Parmelia sulcata)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0002265</title>
+            <link>http://et.lichenarium.info/Vagu lapikisamblik (Parmelia sulcata)/slides/fungi-0002265.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:50 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Vagu lapikisamblik (Parmelia sulcata)/thumbs/fungi-0002265.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Vagu lapikisamblik (Parmelia sulcata)/slides/fungi-0002265.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/fungi-0002265.jpg</guid>
+        </item>
+        <item>
+            <title>fungi-0002313</title>
+            <link>http://et.lichenarium.info/Vagu lapikisamblik (Parmelia sulcata)/slides/fungi-0002313.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:50 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Vagu lapikisamblik (Parmelia sulcata)/thumbs/fungi-0002313.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Vagu lapikisamblik (Parmelia sulcata)/slides/fungi-0002313.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/fungi-0002313.jpg</guid>
+        </item>
+    </channel>
+</rss>

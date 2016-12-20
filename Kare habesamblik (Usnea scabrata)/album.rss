@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Kare habesamblik (Usnea scabrata)</title>
+   	<link>..</link>
+        <generator>jAlbum 13.6</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://et.lichenarium.info/Kare habesamblik (Usnea scabrata)/</jalbum:absolutePath>
+        <item>
+            <title>DSC09002</title>
+            <link>http://et.lichenarium.info/Kare habesamblik (Usnea scabrata)/slides/DSC09002.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:49 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Kare habesamblik (Usnea scabrata)/thumbs/DSC09002.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Kare habesamblik (Usnea scabrata)/slides/DSC09002.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Thu, 01 Aug 2013 11:22:51 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09002.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09003</title>
+            <link>http://et.lichenarium.info/Kare habesamblik (Usnea scabrata)/slides/DSC09003.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:49 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Kare habesamblik (Usnea scabrata)/thumbs/DSC09003.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Kare habesamblik (Usnea scabrata)/slides/DSC09003.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Thu, 01 Aug 2013 11:22:58 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09003.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09004</title>
+            <link>http://et.lichenarium.info/Kare habesamblik (Usnea scabrata)/slides/DSC09004.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:49 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Kare habesamblik (Usnea scabrata)/thumbs/DSC09004.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Kare habesamblik (Usnea scabrata)/slides/DSC09004.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Thu, 01 Aug 2013 11:23:03 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09004.jpg</guid>
+        </item>
+    </channel>
+</rss>

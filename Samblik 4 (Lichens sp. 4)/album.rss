@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Samblik 4 (Lichens sp. 4)</title>
+   	<link>..</link>
+        <generator>jAlbum 13.6</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://et.lichenarium.info/Samblik 4 (Lichens sp. 4)/</jalbum:absolutePath>
+        <item>
+            <title>DSC09024</title>
+            <link>http://et.lichenarium.info/Samblik 4 (Lichens sp. 4)/slides/DSC09024.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:50 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Samblik 4 (Lichens sp. 4)/thumbs/DSC09024.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Samblik 4 (Lichens sp. 4)/slides/DSC09024.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 01 Aug 2013 11:35:50 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09024.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09025</title>
+            <link>http://et.lichenarium.info/Samblik 4 (Lichens sp. 4)/slides/DSC09025.jpg</link>
+            <pubDate>Tue, 20 Dec 2016 13:33:50 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://et.lichenarium.info/Samblik 4 (Lichens sp. 4)/thumbs/DSC09025.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://et.lichenarium.info/Samblik 4 (Lichens sp. 4)/slides/DSC09025.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 01 Aug 2013 11:35:57 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09025.jpg</guid>
+        </item>
+    </channel>
+</rss>
